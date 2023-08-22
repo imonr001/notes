@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/notes/static/css/main.71dd9d6c.css",
+    "main.js": "/notes/static/js/main.a169c7de.js",
+    "static/media/loginPageBackground.jpg": "/notes/static/media/loginPageBackground.909a4c17697c449ac264.jpg",
+    "static/media/pexels-mart-production-7718838.jpg": "/notes/static/media/pexels-mart-production-7718838.30b89d4c54bb6dcf3398.jpg",
+    "index.html": "/notes/index.html",
+    "main.71dd9d6c.css.map": "/notes/static/css/main.71dd9d6c.css.map",
+    "main.a169c7de.js.map": "/notes/static/js/main.a169c7de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71dd9d6c.css",
+    "static/js/main.a169c7de.js"
+  ]
+}
